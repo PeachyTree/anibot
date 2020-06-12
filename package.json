@@ -1,6 +1,6 @@
 {
     "name": "anibot",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A Discord Bot using the discord.js-commando framework with heavy focus on Anime.",
     "main": "anibot.js",
     "scripts": {
@@ -28,6 +28,19 @@
     "author": "Azura Apple <dragonminner867@gmail.com>",
     "license": "ISC",
     "dependencies": {
+        "animequote": "^1.1.1",
+        "booru": "^2.2.3",
+        "discord.js": "^12.2.0",
+        "discord.js-commando": "^0.10.0",
+        "dotenv": "^8.2.0",
+        "kitsu.js": "^2.0.0",
+        "mathjs": "^7.0.1",
+        "moment": "^2.26.0",
+        "moment-duration-format": "^2.3.2",
+        "random-puppy": "^1.1.0",
+        "relevant-urban": "^2.0.0",
+        "snekfetch": "^4.0.4",
+        "wanakana": "^4.0.2"
     },
     "false": {}
 }
