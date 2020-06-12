@@ -1,0 +1,33 @@
+{
+    "name": "anibot",
+    "version": "1.0.2",
+    "description": "A Discord Bot using the discord.js-commando framework with heavy focus on Anime.",
+    "main": "anibot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": "github:AzuraApple/anibot",
+    "bugs": {
+        "url": "https://github.com/AzuraApple/anibot/issues"
+    },
+    "homepage": "https://github.com/AzuraApple/anibot#readme",
+    "keywords": [
+        "discord",
+        "bot",
+        "discord.js-commando",
+        "discord.js",
+        "discord-bot",
+        "discord-api",
+        "anime"
+    ],
+    "engines": {
+        "node": ">= 12.0.0",
+        "npm": ">= 6.2.0"
+    },
+    "author": "Azura Apple <dragonminner867@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+    },
+    "false": {}
+}
