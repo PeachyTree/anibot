@@ -9,6 +9,5 @@ logs/
 # Config Files
 .env
 config.json
-*.example
 
 # In-Development Commands (If any, put them here)
