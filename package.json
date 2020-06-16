@@ -1,6 +1,6 @@
 {
     "name": "anibot",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A Discord Bot using the discord.js-commando framework with heavy focus on Anime.",
     "main": "anibot.js",
     "scripts": {
